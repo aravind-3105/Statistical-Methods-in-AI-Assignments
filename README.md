@@ -1,6 +1,6 @@
 # Statistical Methods in AI Assignments
 
-This repository contains a collection of assignments for the **Statistical Methods in AI** course. Each assignment is organized into its own directory and includes a set of questions, code, and data related to various topics in AI and machine learning.
+This repository contains a collection of assignments for the **Statistical Methods in AI** Spring 2023 course prepared during my tenure as a Teaching Assistant along with other TAs. Each assignment is organized into its own directory and includes a set of questions, code, and data related to various topics in AI and machine learning.
 
 ## Assignment Structure
 
